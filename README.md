@@ -20,12 +20,12 @@ I'm **Reisaurus** — a computer engineering who likes building small hardware +
 <br>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=janedoe&show_icons=true&hide_border=true&bg_color=F3F0FB&title_color=8567C9&icon_color=4C8FD1&text_color=35304A" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janedoe&layout=compact&hide_border=true&bg_color=F3F0FB&title_color=8567C9&text_color=35304A" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=reisaurus-exe&show_icons=true&hide_border=true&bg_color=F3F0FB&title_color=8567C9&icon_color=4C8FD1&text_color=35304A" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reisaurus-exe&layout=compact&hide_border=true&bg_color=F3F0FB&title_color=8567C9&text_color=35304A" width="48%" />
 </div>
 
 <br>
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com/?user=janedoe&hide_border=true&background=F3F0FB&ring=8567C9&fire=B79EEA&currStreakLabel=8567C9&sideLabels=35304A&currStreakNum=35304A&sideNums=35304A&dates=6C6584" />
+  <img src="https://streak-stats.demolab.com/?user=reisaurus-exe&hide_border=true&background=F3F0FB&ring=8567C9&fire=B79EEA&currStreakLabel=8567C9&sideLabels=35304A&currStreakNum=35304A&sideNums=35304A&dates=6C6584" />
 </div>
