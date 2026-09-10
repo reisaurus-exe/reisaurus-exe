@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Reisaurus** — a computer engineering student who likes building small hardware + software projects, one breadboard at a time.
+I'm **Reisaurus** — a computer engineering who likes building small hardware + software projects, one breadboard at a time.
 
 - 🔭 Currently working on: a clip-on mood display (Arduino + 16x2 LCD) and my portfolio site
 - 🌱 Currently learning: embedded systems, React Native, ui/ux, cybersecurity,and ai engineering
